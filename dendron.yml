@@ -81,13 +81,12 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /template.publish.github-action
     copyAssets: true
     siteHierarchies:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    assetsPrefix: /dataiku_pkm  
+    assetsPrefix: /dataiku_pkm
     siteUrl: 'https://jsill14.github.io'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
