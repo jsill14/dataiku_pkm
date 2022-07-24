@@ -87,7 +87,8 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://dendronhq.github.io'
+    assetsPrefix: /dataiku_pkm  
+    siteUrl: 'https://jsill14.github.io'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
